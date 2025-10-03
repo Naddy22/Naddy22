@@ -18,7 +18,7 @@
 ## 📂 Projets à découvrir
 
 🔹 [**Minishell**](https://github.com/naddy22/minishell) — Un shell minimaliste en C (parsing, redirections, pipes, builtins).  
-🔹 [**ft_irc**](https://github.com/naddy22/ft_irc) — Serveur IRC en C++ (programmation réseau, sockets).
+🔹 [**ft_irc**](https://github.com/naddy22/ft_irc) — Serveur IRC en C++ (programmation réseau, sockets).  
 🔹 [**ft_transcendence**](https://github.com/naddy22/ft_transcendance) — Projet fullstack : un site de jeu en ligne avec Pong, chat en temps réel, authentification et système de classement.
 
 *(Découvrez plus de projets dans mes dépôts publics 👇)*  
