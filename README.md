@@ -27,7 +27,7 @@
 
 ## 🔭 Projets en cours
 
-- Développemement fullstack de mon portfolio
+- Développement fullstack de mon portfolio
 
 ## 🌍 Me contacter
 
