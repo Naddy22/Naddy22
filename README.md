@@ -49,8 +49,6 @@
 
 # 👋 Hi, my name is Nadège  
 
-*(English version below 👇)*  
-
 🎓 Student at **42 Paris** (computer programming program)  
 💻 Passionate about **software, web, mobile and video game development**  
 🚀 Currently looking for a **programming internship**  
