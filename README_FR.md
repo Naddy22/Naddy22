@@ -32,7 +32,7 @@
 ## 🌍 Me contacter
 
 - 📧 Email : **nadege.moisan@outlook.fr**  
-- 💼 LinkedIn : [www.linkedin.com/in/nadege-moisan)  
+- 💼 LinkedIn : [linkedin.com/in/nadege-moisan](https://www.linkedin.com/in/nadege-moisan)  
 - 🖥️ Portfolio : *à venir*
 
 ---
