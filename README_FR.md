@@ -37,4 +37,10 @@
 
 ---
 
+<!-- Statistiques GitHub -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naddy22&layout=compact&theme=tokyonight&card_width=400" alt="Langages les plus utilisés" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naddy22&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" height="170"/>
+
+---
+
 ⭐️ *N’hésitez pas à explorer mes projets et à laisser une ⭐ si l’un vous plaît !*
